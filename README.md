@@ -2,7 +2,8 @@
 This is a Simple Discord Bot that is using Discord API Version 13. Everything has been setup.
 -----------------------------------------
 ## Installation
-```npm i```
+
+> **To Download the required files please do ```npm i```**
 
 -----------------------------------------
 ### Extra Information
