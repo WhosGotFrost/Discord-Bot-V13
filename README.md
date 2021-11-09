@@ -3,7 +3,7 @@ This is a Simple Discord Bot that is using Discord API Version 13. Everything ha
 -----------------------------------------
 ## Installation
 
-> **To Download the required files please do ```npm i```**
+> ***IMPORTANT*** => **To Download the required files please do ```npm i```**
 
 -----------------------------------------
 ### Extra Information
