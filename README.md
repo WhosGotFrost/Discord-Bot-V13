@@ -5,7 +5,7 @@ This is a Simple Discord Bot that is using Discord API Version 13. Everything ha
 
 > ***IMPORTANT*** => **To Download the required files please do ```npm i```**
 
-> Once done installing to start your bot do ***```node .```*** or  ***```node index.js```***
+> Once you are done installing the packages. To start your bot do ***```node .```*** or  ***```node index.js```***
 -----------------------------------------
 ### Extra Information
 * **Command Handler** 
