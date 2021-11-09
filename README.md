@@ -3,7 +3,7 @@ This is a Simple Discord Bot that is using Discord API Version 13. Everything ha
 -----------------------------------------
 ## Extra Information
 * **Command Handler** 
-> The Command Handler reads your *.js* files within the ```***Commands/${folder}***``` folders.
+> The Command Handler reads your *.js* files within the ```js***Commands/${folder}***``` folders.
 
 * **Slash Commands**
 > Slash Commands have been setup. Please check one of the examples within ***Commands/General*** Folder, and create your own command!
