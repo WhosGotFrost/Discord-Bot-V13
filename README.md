@@ -25,5 +25,5 @@ This is a Simple Discord Bot that is using Discord API Version 13. Everything ha
 -----------------------------------------
 #### Socials
 * **Discord** - *satisfied#0407*
-* [Insta](https://instagram.com/whosgotfrost)
+* [Insta](https://instagram.com/whosgotfrost/)
 * [Youtube](https://www.youtube.com/channel/UCxPhDF3FQ8x6WFplFuQGu_g)
