@@ -1,7 +1,7 @@
 {
-    "token" : "OTA2MDIzODM2MzQ3MTQyMTU0.YYSmcw.lh-tfRzl6Izhtrr4lsyjPGZOGGs",
-    "clientID" : "880220945992785990",
-    "botID" : "906023836347142154", 
-    "guildID" : "906023967985393696",
-    "invite" : "https://discord.com/api/oauth2/authorize?client_id=906023836347142154&permissions=8&scope=bot%20applications.commands"
+    "token" : "Bot token",
+    "clientID" : "Your User ID",
+    "botID" : "Your Bot ID", 
+    "guildID" : "Server ID",
+    "invite" : "don't forget to turn on Application.Commands in Discord Developer!"
 }
