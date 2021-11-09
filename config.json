@@ -1,7 +1,0 @@
-{
-    "token" : "Bot token",
-    "clientID" : "Your User ID",
-    "botID" : "Your Bot ID", 
-    "guildID" : "Server ID",
-    "invite" : "don't forget to turn on Application.Commands in Discord Developer!"
-}
