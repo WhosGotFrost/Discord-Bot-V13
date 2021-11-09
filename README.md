@@ -19,4 +19,7 @@ This is a Simple Discord Bot that is using Discord API Version 13. Everything ha
 
 * **config.json**
 > This includes your application *(bot)* information. Don't forget to fill in the fields!
+
+
+> If you would like to keep adding to your *bot* here is [Discord Documentation](https://discord.js.org/#/docs/main/stable/general/welcome).
 -----------------------------------------
