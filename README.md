@@ -3,7 +3,7 @@ This is a Simple Discord Bot that is using Discord's API Version 13. Everything 
 -----------------------------------------
 ## Installation
 
-> ***IMPORTANT*** **To Download the required files please do ```npm i```**
+> * ***IMPORTANT*** **To Download the required files please do ```npm i```**
 > ***IMPORTANT*** **THIS BOT REQUIRES NODEJS 16.6.0 OR NEWER**
 > Once you are done installing the packages. To start your bot do ***```node .```*** or  ***```node index.js```***
 -----------------------------------------
