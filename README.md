@@ -21,8 +21,8 @@ This is a Simple Discord Bot that is using Discord API Version 13. Everything ha
 > This includes your application *(bot)* information. Don't forget to update your **config.js** file!
 
 
-- If you would like to keep adding to your *bot* here is **[Discord's Documentation]**(https://discord.js.org/#/docs/main/stable/general/welcome).
-- If you haven't created your application you can do so here! **[Discord Developer Portal]**(https://discord.com/developers/applications)
+- If you would like to keep adding to your *bot* here is [Discord's Documentation](https://discord.js.org/#/docs/main/stable/general/welcome).
+- If you haven't created your application you can do so here! [Discord Developer Portal](https://discord.com/developers/applications)
 -----------------------------------------
 #### Socials
 * **Discord** - *satisfied#0407*
