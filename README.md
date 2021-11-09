@@ -18,7 +18,7 @@ This is a Simple Discord Bot that is using Discord API Version 13. Everything ha
 > A function that deploys your commands using *Discords API*. Keep in mind this function also refreshes and loads your commands!
 
 * **config.json**
-> This includes your application *(bot)* information. Don't forget to fill in the fields!
+> This includes your application *(bot)* information. Don't forget to update your **config.js!**
 
 
 - If you would like to keep adding to your *bot* here is [Discord's Documentation](https://discord.js.org/#/docs/main/stable/general/welcome).
