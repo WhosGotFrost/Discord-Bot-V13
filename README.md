@@ -24,6 +24,6 @@ This is a Simple Discord Bot that is using Discord API Version 13. Everything ha
 * If you would like to keep adding to your *bot* here is [Discord Documentation](https://discord.js.org/#/docs/main/stable/general/welcome).
 -----------------------------------------
 #### Socials
-**Discord** - *satisfied#0407*
-[Insta](https://instagram.com/whosgotfrost)
-[Youtube](https://www.youtube.com/channel/UCxPhDF3FQ8x6WFplFuQGu_g)
+* **Discord** - *satisfied#0407*
+* [Insta](https://instagram.com/whosgotfrost)
+* [Youtube](https://www.youtube.com/channel/UCxPhDF3FQ8x6WFplFuQGu_g)
